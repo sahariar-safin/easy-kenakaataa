@@ -1,0 +1,15 @@
+.left-section{
+    background-color: blueviolet;
+    height: 100vh;
+}
+.left-section a h1{
+    color: white;
+    text-decoration: none;
+    text-align: end;
+    padding: 20px;
+    border-bottom: 2px solid black;
+}
+.left-section a{
+    text-decoration: none;
+    
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+img.product-image {
+    height: 150px;
+    width: 150px;
+}
+.order-details{
+    background-color: #fafafa;
+    color: #0091ea;
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+}
+.order-card{
+    border: thin solid hsla(0,0%,50%,.39);
+    margin: 5px;
+}
+.order-details h5 {
+    font-size: 18px;
+}
+.product-details{
+    padding: 10px;
+}
+.product-details h3 {
+    font-size: 21px;
+    margin: 24px 47px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
